@@ -1,3 +1,4 @@
-Pod/
+Pods/
 *.xcworkspace
+Podfile.lock
 QuizApp/GoogleService-Info.plist
